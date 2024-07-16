@@ -25,7 +25,7 @@ def index():
     return render_template('index.html')
 @app.route('/detect') 
 def detect():
-    return render_template('Detect.html')
+    return render_template('templates/Detect.html')
 @app.route('/Detect',methods=['POST'])
 def ECG():
     if request.method == 'POST':
