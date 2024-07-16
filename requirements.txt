@@ -1,13 +1,13 @@
 numpy
-scipy ==1.5.4
-tqdm ==4.64.1
-pandas== 1.1.5
-tensorflow==2.6.0
-keras==2.6.0
-scikit-learn ==0.24.2
-flask ==2.2.0
-protobuf==3.19.0
-tensorflow-cpu==2.6.0
-neurokit2==0.1.1
-gunicorn==20.1.0
+scipy
+tqdm
+pandas
+tensorflow
+keras
+scikit-learn
+flask
+protobuf
+tensorflow-cpu
+neurokit2
+gunicorn
 streamlit
